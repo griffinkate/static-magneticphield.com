@@ -14,4 +14,4 @@ Please use the repository Issues to raise any questions or comments.
 
 # License
 
-Unless stated otherwise, the codebase is released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).# static-magneticphield.com
+Unless stated otherwise, the codebase is released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
